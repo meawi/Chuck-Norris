@@ -1,0 +1,27 @@
+body {
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    font-family: sans-serif;
+    font-size:1.5rem;
+    background-image:url("cn.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center;
+    text-shadow:0 0 0.5px;
+    background-color:rgb(241, 234, 234);
+    color:black;
+}
+
+p {
+    max-width:400px;
+    margin:50px;
+}
+
+button {
+    font-size: 1.5rem;
+    text-shadow:0 0 0.5px;
+}
